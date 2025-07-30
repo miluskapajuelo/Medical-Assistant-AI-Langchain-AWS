@@ -1,6 +1,8 @@
 ## Teck stack
 
-* Flask (front end)
+* Flask
+* React
+* Material UI
 * Python (language programming)
 * LangChain (Orchertation)
 * Pipeline (Vector storage DB)
