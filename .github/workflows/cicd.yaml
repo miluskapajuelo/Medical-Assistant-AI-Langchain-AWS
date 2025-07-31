@@ -1,8 +1,6 @@
-name: Deploy Application Docker Image to AWS EC2
-description: Deploys the Docker image of the application to an AWS EC2 instance using GitHub Actions.
-
 # This workflow deploys a Docker image to an AWS EC2 instance
 name: Deploy Application Docker Image to EC2 instance
+description: Deploys the Docker image of the application to an AWS EC2 instance using GitHub Actions.
 
 on:
   push:
