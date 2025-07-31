@@ -74,6 +74,7 @@ http://localhost:8000
 # AWS CI/CD & Deployment Overview
 
 ## 1. Login to AWS console.
+
 ## 2. Create IAM user for deployment
 
 #with specific access
