@@ -14,6 +14,7 @@ AI-powered medical assistant built with LangChain, OpenAI, and Pinecone, deploye
 - **GitHub Actions** – CI/CD pipeline
 - **(Optional)** React – If frontend is extended beyond Flask templates
 
+
 ## Architecture Overview
 
 <p align="center">
