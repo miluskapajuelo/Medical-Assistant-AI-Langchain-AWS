@@ -71,7 +71,6 @@ python app.py
 
 http://localhost:8000
 
-
 # AWS CI/CD & Deployment Overview
 
 ## 1. Login to AWS console.
