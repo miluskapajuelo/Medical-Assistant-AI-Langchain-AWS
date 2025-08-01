@@ -69,7 +69,7 @@ python store_index.py
 
 python app.py
 
-http://localhost:8000
+http://localhost:8080
 
 # AWS CI/CD & Deployment Overview
 
