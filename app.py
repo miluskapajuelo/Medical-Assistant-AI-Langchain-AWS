@@ -1,4 +1,4 @@
-from flask import Flask, send_from_directory,jsonify, request
+from flask import Flask, send_from_directory, request
 from src.helper import download_embeddings
 from langchain_pinecone import PineconeVectorStore
 from langchain_openai import ChatOpenAI
